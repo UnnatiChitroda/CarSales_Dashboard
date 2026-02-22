@@ -3,11 +3,11 @@
 This project is Car Sales Analytics Dashboard built using Power BI to analyze Year-To-Date (YTD) performance across sales revenue, Car volume, pricing trends, dealer regions, and product attributes.
 
 Business Objective <BR>
-• How are YTD sales performing compared to last year?
-• Which body styles and colors generate the highest revenue?
-• Which dealer regions are underperforming?
-• Is average selling price increasing or declining?
-• Which car brands contribute the most to total sales?
+• How are YTD sales performing compared to last year?  <BR>
+• Which body styles and colors generate the highest revenue?  <BR>
+• Which dealer regions are underperforming?  <BR>
+• Is average selling price increasing or declining?  <BR>
+• Which car brands contribute the most to total sales?  <BR>
  <BR>
 This dashboard solves these problems using structured data modeling, advanced DAX calculations, and interactive visual exploration.
  <BR>  <BR>
@@ -20,7 +20,7 @@ Key KPIs Tracked  <BR>
 • % Growth Indicators (Green/Red performance logic) <BR>
  <BR> <BR>
 Tools & Technologies Used <BR>
-• Power BI Desktop • DAX (Data Analysis Expressions) • CALCULATE • YTD logic • Growth % • Time Intelligence • Power Query • Data cleaning • Data transformation • Star Schema Data Modeling
+• Power BI Desktop  <BR> • DAX (Data Analysis Expressions) , CALCULATE , YTD logic , Growth % , Time Intelligence  <BR> • Power Query  <BR> • Data cleaning  <BR> • Data transformation  <BR> • Star Schema Data Modeling
  <BR> <BR>
 Business Insights Derived <BR>
 • SUV segment contributes the highest YTD revenue (~27%) <BR>
